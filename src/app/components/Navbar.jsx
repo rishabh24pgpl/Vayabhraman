@@ -21,7 +21,7 @@ export default function Navbar() {
     <div class="hidden md:flex md:items-center md:w-auto w-full" id="menu">
         <nav>
             <ul class="md:flex items-center justify-between text-base text-gray-700 pt-4 md:pt-0">
-                <li><a class="md:p-4 py-3 px-0 block text-xl" href="#">AboutUs</a></li>
+                <li><a class="md:p-4 py-3 px-0 block text-xl" href="/about">AboutUs</a></li>
                 <li><a class="md:p-4 py-3 px-0 block text-xl" href="#">Plans</a></li>
                 <li><a class="md:p-4 py-3 px-0 block text-xl" href="#">Gallary</a></li>
                 <li><a class="md:p-4 py-3 px-0 block md:mb-0 mb-2 text-xl" href="#">Contact Us</a></li>

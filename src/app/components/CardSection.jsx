@@ -1,5 +1,5 @@
 import React from 'react';
-import ReusableCard from './Reusable/ReusableCard'; // Make sure to import your ReusableCard component
+import ReusableCard from './Reusable/ReusableCard';
 
 const CardSection = () => {
     return (
